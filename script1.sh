@@ -1,5 +1,5 @@
 #!/bin/bash
-STUDENT_NAME="Adwita"
+STUDENT_NAME="Nandine"
 SOFTWARE="Python"
 KERNEL=$(uname -r)
 UPTIME=$(uptime -p)
@@ -12,6 +12,6 @@ echo "================================"
 echo "Software : $SOFTWARE"
 echo "Python   : $PYTHON_VERSION"
 echo "Kernel   : $KERNEL"
-echo "User     : Adwita"
+echo "User     : Nandine"
 echo "Uptime   : $UPTIME"
 echo "Date     : $DATE
